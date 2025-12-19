@@ -8,4 +8,3 @@ public interface IHasProgress
         public float progressNormalized;
     }
 }
-
